@@ -43,11 +43,11 @@ from handlers.save_media import (
 MediaList = {}
 
 Bot = Client(
-    name=Config.BOT_USERNAME,
+    name=Config.BOT_USERNAME,https://t.me/DRAMAWORL008_bot
     in_memory=True,
-    bot_token=Config.BOT_TOKEN,
-    api_id=Config.API_ID,
-    api_hash=Config.API_HASH
+    bot_token=Config.BOT_TOKEN,8557429719:AAGQ4n1uRarnVrdPOPtzSxBtEAC3ox0z7pI
+    api_id=Config.API_ID,38007998
+    api_hash=Config.API_HASH671945902915d658fcec3e9e99e39711
 )
 
 
